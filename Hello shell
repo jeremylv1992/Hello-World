@@ -1,0 +1,12 @@
+#shell script show
+#!/bin/bash
+#Program:
+#coding in the github
+#History:
+#2014/3/25  Jeremy  First release
+
+PATH=$PATH":/bin"
+export PATH
+echo "Hello shell\n"
+
+exit 0
